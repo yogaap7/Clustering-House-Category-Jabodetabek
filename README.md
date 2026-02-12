@@ -1,3 +1,11 @@
+<p align="center">
+  <b>© 2026 Yoga Adi Prakoso</b><br>
+  <sub>Machine Learning • Data Science • Analytics</sub>
+</p>
+
+---
+
+
 # 🏠 Clustering House Category – Jabodetabek
 
 ## 📌 Project Overview
@@ -126,6 +134,15 @@ data/
 
 ## 📚 Attribution
 
+---
+
 Dataset Source:  
 Nafis Barizki  
 Daftar Harga Rumah Jabodetabek – Kaggle
+
+---
+
+<p align="center">
+  <b>© 2026 Yoga Adi Prakoso</b><br>
+  <sub>Clustering House Category Project</sub>
+</p>
